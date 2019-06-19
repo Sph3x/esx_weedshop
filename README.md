@@ -1,11 +1,14 @@
 #esx_weedshop
 
+This script need an English translate, if you made one pm me on discord at Slewog#1883
 
 ## RECQUIRE
 
-my modified version of esx_drugs: https://github.com/Slewog/esx_drugs
-my modified version of esx_drugeffects : https://github.com/Slewog/esx_drugeffects or  esx_drugeffects Original : https://github.com/ESX-Org/esx_drugs
-esx_status Original : https://github.com/ESX-Org/esx_status
+1) My modified version of esx_drugs: https://github.com/Slewog/esx_drugs.
+
+2) My modified version of esx_drugeffects : https://github.com/Slewog/esx_drugeffects or  esx_drugeffects Original : https://github.com/ESX-Org/esx_drugs
+
+3) esx_status Original : https://github.com/ESX-Org/esx_status
 
 
 
@@ -15,7 +18,7 @@ esx_status Original : https://github.com/ESX-Org/esx_status
 
 2) Import esx_weedshop.sql in your database
 
-3° Add in your server.cfg 
+3Â° Add in your server.cfg 
 
 ```
 start esx_weedshop

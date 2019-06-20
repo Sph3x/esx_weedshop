@@ -1,7 +1,5 @@
 #esx_weedshop
 
-This script need an English translate, if you made one pm me on discord at Slewog#1883
-
 ## RECQUIRE
 
 1) My modified version of esx_drugs: https://github.com/Slewog/esx_drugs.

@@ -1,18 +1,19 @@
-description 'ESX WeddShop'
-
-version '1.0.0'
-
-client_scripts {
-	'@es_extended/locale.lua',
-	'locales/fr.lua',
-	'config.lua',
-	'client/main.lua'
-}
+description 'Weed Shop'
 
 server_scripts {
-	'@es_extended/locale.lua',
-	'locales/fr.lua',
-	'@mysql-async/lib/MySQL.lua',
-	'config.lua',
-	'server/main.lua'
+    '@mysql-async/lib/MySQL.lua',
+    '@es_extended/locale.lua',
+    'server/esx_weedshop.server.lua',
+    'locales/fr.lua',
+    'locales/en.lua',
+    'config.lua'
+}
+
+client_scripts {
+    '@es_extended/locale.lua',
+    'client/esx_weedshop.client.lua',
+    'client/esx_weedshop_gui.client.lua',
+    'locales/fr.lua',
+    'locales/en.lua',
+    'config.lua'
 }
